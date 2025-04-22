@@ -15,3 +15,9 @@
 *MENTOR*: Thoufiq Z
 
 *CSV FILE*: [heart_disease.csv](https://github.com/user-attachments/files/19843760/heart_disease.csv)
+
+*Confusion Matrix*: ![Image](https://github.com/user-attachments/assets/a7414738-299e-4393-9981-093d19a7f484)
+
+*Code*: heart_disease.py file attached in the repository.
+
+*Entire Output*: heart_disease_result.ipynb file attached in the repository.
