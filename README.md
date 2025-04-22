@@ -1,8 +1,8 @@
 # Heart_Disease_Pred
 
-*COMPANY*: EDUNET FOUNDATION
+*COMPANY*: EDUNET FOUNDATION in collaboration with MICROSOFT
 
-*DOMAIN*: Microsoft Artificial Intelligence National Skills Initiative (MS AINSI)
+*DOMAIN*: Artificial Intelligence & MACHINE LEARNING
 
 *NAME*: ANWESHA BOSE
 
