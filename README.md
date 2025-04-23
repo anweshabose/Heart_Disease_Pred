@@ -20,6 +20,6 @@
 
 *CSV FILE* (also attached in the repository): [heart_disease.csv](https://github.com/user-attachments/files/19843760/heart_disease.csv)
 
-*Confusion Matrix* (also attached in the repository): ![Image](https://github.com/user-attachments/assets/a7414738-299e-4393-9981-093d19a7f484)
-
 *Column Names of the csv file*: "Column_names.txt" attached in the repository.
+
+*Confusion Matrix* (also attached in the repository): ![Image](https://github.com/user-attachments/assets/a7414738-299e-4393-9981-093d19a7f484)
