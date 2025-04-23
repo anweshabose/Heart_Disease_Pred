@@ -16,7 +16,7 @@
 
 *Code*: heart_disease.py file attached in the repository.
 
-*Entire Output*: heart_disease_result.ipynb file attached in the repository.
+*Entire Output*: Result_of_prediction.txt file attached in the repository.
 
 *CSV FILE*: [heart_disease.csv](https://github.com/user-attachments/files/19843760/heart_disease.csv)
 
