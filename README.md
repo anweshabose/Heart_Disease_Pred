@@ -14,6 +14,6 @@
 
 *MENTOR*: Thoufiq Z
 
-*Project*: "heart_disease.ipynb" file attached in the repository.
+*PROJECT*: "heart_disease.ipynb" file attached in the repository.
 
 *CSV FILE* (also attached in the repository): [heart_disease.csv](https://github.com/user-attachments/files/19843760/heart_disease.csv)
